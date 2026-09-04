@@ -7,7 +7,7 @@ about:
   head: 83e069c
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T20:01:59Z
+  collectedAt: 2026-09-04T20:39:34Z
 timeline:
   created: 2015-03-05
   lastCommit: 2025-02-06
@@ -80,5 +80,33 @@ total:
   openIssue: 12
   commit: 394
 ---
+path: /home/runner/.x-repo/github.com/srsudar/eg
+collectedAt: 2026-09-04T20:39:34Z
+loc:
+  Python:
+    code: 3277
+    comments: 160
+    blanks: 670
+    files: 16
+  Json:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2746
+    blanks: 2788
+    files: 78
+  Text:
+    code: 0
+    comments: 17
+    blanks: 4
+    files: 1
+total:
+  code: 3299
+  comments: 2923
+  blanks: 3462
+  files: 96
 ---
 
