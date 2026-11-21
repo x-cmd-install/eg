@@ -23,6 +23,16 @@ Total: **3,289** lines of code across **96** files in the top 5 languages.
 | Markdown | 0 | 2,746 | 2,788 | 78 |
 | Text | 0 | 17 | 4 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.5 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+
 ## Source
 
 - **Upstream**: <https://github.com/srsudar/eg>
@@ -40,12 +50,12 @@ Total: **3,289** lines of code across **96** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-30 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-01 | 0 | 0 | 0 | 0 | 0 | 2 |
 
 ## Improve this data
 
@@ -56,4 +66,4 @@ Install metadata for eg lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:10:53Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:34:34Z._
