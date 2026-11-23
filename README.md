@@ -23,6 +23,16 @@ Total: **3,289** lines of code across **96** files in the top 5 languages.
 | Markdown | 0 | 2,746 | 2,788 | 78 |
 | Text | 0 | 17 | 4 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.5 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+
 ## Source
 
 - **Upstream**: <https://github.com/srsudar/eg>
@@ -30,7 +40,7 @@ Total: **3,289** lines of code across **96** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,049 · **Forks**: 110 · **Open issues**: 49 · **Contributors**: 26
+- **Stars**: 2,050 · **Forks**: 110 · **Open issues**: 49 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -40,12 +50,12 @@ Total: **3,289** lines of code across **96** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-02 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-03 | 0 | 0 | 0 | 0 | 0 | 2 |
 
 ## Improve this data
 
@@ -56,4 +66,4 @@ Install metadata for eg lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:35:48Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T11:07:34Z._
